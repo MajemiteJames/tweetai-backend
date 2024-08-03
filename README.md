@@ -60,6 +60,7 @@ This will start the NestJS application.
     GET /autobots - Retrieve a list of Autobots.
     GET /autobots/:id/posts - Retrieve posts of a specific Autobot.
     GET /autobots/posts/:postId/comments - Retrieve comments of a specific post.
+    Documentation /api
 
 8. Rate Limiting
 
